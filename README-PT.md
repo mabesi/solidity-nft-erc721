@@ -2,6 +2,8 @@
 
 **[🇺🇸 Read in English](README.md)**
 
+![Banner Solidity NFT ERC721](./banner.png)
+
 > Uma implementação simples e educacional de um contrato inteligente de NFT seguindo o padrão ERC721 em Solidity.
 
 ## :speech_balloon: Descrição
